@@ -8,13 +8,13 @@ export default function Home() {
         Tenzin Tsering Shrestha
       </h1>
       <div className="flex absolute bottom-10">
-        <p className="text-lg"> This is being redesigned, but in the meantime,&nbsp;</p>
+        <p className="text-lg"> This site is currently being redesigned, but in the meantime,&nbsp;</p>
         <a
           className="flex gap-1 text-lg justify-center items-center underline hover:bg-blue-200 duration-200"
           href="https://tenzintshrestha.com.np"
           target="_blank"
         >
-          visit the current site
+          visit the previous portfolio page
           <ArrowUpRightIcon className="h-5 w-5 text-blue-500" />
         </a>
       </div>
